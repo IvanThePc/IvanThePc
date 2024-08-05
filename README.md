@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá me chamo ivan, seja bem vindo ao meu perfil
 
-<!--
-**IvanThePc/IvanThePc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- estou estudando programação na alura
 
-Here are some ideas to get you started:
+- e estou usando o git para organizar meus codigos de projetos futuros
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou pretendendo criar um jogo sobre carros, seria um jogo de corrida de mundo aberto com base em videos que já existentes,
+irei sitar alguns canais do youtube: @Petrolheadoficial @ALEMAODACARAVANN @canalcurva1
+
+Quero fazer um jogo que demonstre a cultura de um Gearhead(louco por carros), e tbm ter um jogo brasileiro baseado em uma vida brasileira tbm.
+
+-🔽caso queira ajuda entre em contato comigo abaixo 🔽
+Email: Van.mudri.332@outlook.com
+Instagram: @ivan_mudri
+
+Obrigado por ler😁👍
